@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InventoryService/InventoryService.csproj" />
+    <Project Path="src/OrderService/OrderService.csproj" Id="947f1fd0-0795-42c7-8569-d35297fc4020" />
+    <Project Path="src/Shared/Shared.csproj" Id="f90b17f8-6fd6-483e-8b7d-cc96c2eea9d9" />
+  </Folder>
+</Solution>

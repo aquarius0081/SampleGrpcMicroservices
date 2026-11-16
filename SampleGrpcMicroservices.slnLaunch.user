@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Both",
+    "Projects": [
+      {
+        "Path": "src\\OrderService\\OrderService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "src\\InventoryService\\InventoryService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
